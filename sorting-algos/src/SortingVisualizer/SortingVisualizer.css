@@ -1,0 +1,13 @@
+.array-container {
+  position: fixed;
+  bottom: 0;
+  left: 0; /* Optional: to align to the left edge */
+  right: 0; /* Optional: to align to the right edge and span full width */
+  width: 100%;
+}
+
+.array-bar {
+    width: 4px;
+    display: inline-block;
+    margin: 0 1px;
+}
